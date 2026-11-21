@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Kankan Sarkar"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Bilaspur, Chhattisgarh, India"
+  employer         : "Guru Ghasidas Vishwavidyalaya (A Central University)"
   uri              : # URL
   email            : "none@example.org" 
 
